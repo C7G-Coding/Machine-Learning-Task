@@ -1,5 +1,10 @@
-venv_ml/ 
-__pycache__/ 
-*.pyc 
-.vscode/ 
-.idea/ 
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db 
