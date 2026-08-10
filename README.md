@@ -18,3 +18,10 @@ Uses two ML models (Linear Regression & Decision Tree),
 Realistic predictions with limits,
 Beginner to elite runner classification,
 Easy-to-use interface
+
+## 🔧 Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/C7G-Coding/Machine-Learning-Task.git
+cd machine-learning-task
